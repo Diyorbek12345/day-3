@@ -6,6 +6,7 @@
 
 .eight-container {
     max-width: 1220px;
+    margin: 0 auto;
     gap: 60px;
     display: flex;
 }
