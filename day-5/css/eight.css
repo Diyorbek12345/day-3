@@ -1,0 +1,219 @@
+.eight {
+    background-color: #F7F9FC;
+    padding-bottom: 240px;
+    margin: 0 auto;
+}
+
+.eight-container {
+    max-width: 1220px;
+    gap: 60px;
+    display: flex;
+}
+
+.eight__left {
+    margin-top: 386px;
+    display: flex;
+    flex-direction: column;
+}
+
+.eight__title {
+    max-width: 481px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    color: #211F54;
+}
+
+.eight__text {
+    margin-top: 8px;
+    margin-bottom: 13px;
+    max-width: 485px;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #6E7191;
+}
+
+.eight__info__box1 {
+    padding-bottom: 51px;
+    display: flex;
+    max-width: 487px;
+    border-bottom: 3px solid #a29595;
+}
+
+.eight__info__box1__text {
+    margin-top: 8px;
+    margin-bottom: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 1.600000023841858px;
+    color: #6E7191;
+}
+
+.eight__info__box1__number {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #211F54;
+}
+
+.eight__bottom__title {
+    margin-top: 55px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #211F54
+}
+
+.eight__bottom__text {
+    margin-top: 9px;
+    margin-bottom: 10px;
+    max-width: 446px;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #6E7191;
+}
+
+.eight__link1 {
+    max-width: 257px;
+    padding: 26px 39px;
+    border-radius: 14px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #211F54;
+}
+
+.eight__right {
+    margin-top: 240px;
+    width: 673px;
+    height: 908px;
+    padding: 85px 61px;
+    border-radius: 16px;
+    background-color: #FFF;
+}
+
+.eight__right__form__box1 {
+    display: flex;
+}
+
+.eight__right__form__box1 label {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #211F54;
+}
+
+#fullname {
+    margin-bottom: 32px;
+    margin-top: 12px;
+    margin-right: 33px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#phone {
+    margin-bottom: 32px;
+    margin-top: 12px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#address {
+    margin-bottom: 32px;
+    margin-top: 12px;
+    margin-right: 33px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#email {
+    margin-bottom: 32px;
+    margin-top: 12px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#requested {
+    margin-bottom: 32px;
+    margin-top: 12px;
+    margin-right: 33px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#dayservice {
+    margin-bottom: 32px;
+    padding: 15px;
+    margin-top: 12px;
+    Width: 259px;
+    Height: 72px;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#addtext {
+    margin-top: 12px;
+    margin-bottom: 115px;
+    Width: 551px;
+    Height: 144px;
+    border-radius: 22px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    border: none;
+    outline: none;
+}
+
+#submit {
+    width: 219px;
+    padding: 26px 20px;
+    border-radius:14px;
+    background-color: #0075FF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #fff;
+    border:none;
+    transition: 1s;
+}

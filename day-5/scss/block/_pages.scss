@@ -1,0 +1,97 @@
+#pages{
+  padding-bottom: 240px;
+}
+.pages__title{
+  max-width: 475px;
+  font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #211F54;
+}
+
+.pages__btn{
+  font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+color: #211F54;
+padding: 26px 27px 39px 39px;
+background: #FFFFFF;
+border: 1px solid #EFF0F6;
+box-shadow: 0px 4px 10px rgba(20, 20, 43, 0.04);
+border-radius: 14px;
+}
+
+.pages__btn:hover{
+font-weight: 700px;
+background: #0075FF;
+color: #FFFFFF;
+box-shadow: none;
+transition: 0.5s ease;
+}
+
+.pages__list{
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.pages__header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pages__cards{
+  margin-top: 48px;
+}
+
+.pages__item{
+background: #FFFFFF;
+border: 1px solid #EFF0F6;
+box-shadow: 0px 2px 6px rgba(20, 20, 43, 0.04);
+border-radius: 16px;
+}
+
+.pages__item:hover{
+  background-color: #211F54;
+  transition: 1s;
+}
+
+.pages__item:hover h3{
+color: white;
+}
+
+.pages__img{
+  max-width: 220px;
+  margin-bottom: 24px;
+  padding-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pages__img:hover{
+  transform: scale(1.2);
+  transition: 0.7s;
+}
+
+.pages__sub__title{
+  font-weight: 700;
+  margin-left: 0;
+font-size: 24px;
+line-height: 34px;
+margin-bottom: 13px;
+text-align: center;
+color: #211F54;
+}
+
+.pages__text2{
+  max-width: 312px;
+  font-weight: 400;
+font-size: 21px;
+line-height: 30px;
+text-align: center;
+color: #6E7191;
+padding-left: 38px;
+margin-right: 38px;
+margin-bottom: 29px;
+}

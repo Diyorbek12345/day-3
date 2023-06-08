@@ -1,0 +1,102 @@
+.six {
+    padding-top: 200px;
+    padding-bottom: 251px;
+}
+
+.six-container {
+    max-width: 1220px;
+    display: flex;
+    gap: 38px;
+}
+
+.six__left {
+    display: flex;
+    flex-direction: column;
+}
+
+.six__title {
+    max-width: 346px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    color: #211F54
+}
+
+.six__text {
+    margin-top: 19px;
+    margin-bottom: 15px;
+    width: 496px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #6E7191;
+}
+
+.six__minitext {
+    max-width: 465px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #6E7191;
+}
+
+.six__cards {
+    margin-top: 25px;
+    margin-bottom: 48px;
+    gap: 58px;
+    display: flex;
+}
+
+.six__card {
+    display: flex;
+    flex-direction: column;
+}
+.six__card__box{
+    display: flex;
+}
+
+.six__card__number {
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 66px;
+    letter-spacing: 0em;
+    color: #211F54;
+}
+
+.six__card__plus {
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 66px;
+    letter-spacing: 0em;
+    color: #0075FF;
+}
+
+.six__card__text {
+    margin-top: 3px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #6E7191;
+}
+.five__link--2{
+    width: 217px;
+    padding: 26px 38px;
+    border-radius: 14px;
+    background-color: #0075FF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+    transition: 1s;
+}
+.hr1{
+    margin: 0 auto;
+    max-width: 1220px;
+    color:rgb(157, 151, 151);
+}

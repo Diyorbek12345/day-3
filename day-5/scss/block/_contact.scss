@@ -1,0 +1,86 @@
+ .contact__container{
+   background-color: #504E83;
+   display: flex;
+   align-items: center;
+ }
+
+ .contact__Sentence{
+   font-weight: 700;
+ font-size: 16px;
+ line-height: 18px;
+ letter-spacing: 1.6px;
+ text-transform: uppercase;
+ color: #FFFFFF;
+ }
+
+ .contact__img-block{
+   max-width: 518px;
+   margin-right: 72px;
+ }
+
+ .contact__title{
+   max-width: 491px;
+   font-weight: 700;
+ font-size: 48px;
+ line-height: 58px;
+ color: #FFFFFF;
+ margin-bottom: 18px;
+ margin-top: 17px;
+ }
+
+ .contact__text{
+   max-width: 474px;
+   font-weight: 400;
+ font-size: 21px;
+ line-height: 30px;
+ color: #FFFFFF;
+ }
+
+ .contact__btns2{
+   display: flex;
+   align-items: center;
+   gap: 16px;
+   margin-left: 28px;
+  
+ }
+
+ .contact__advice{
+   font-weight: 400;
+ font-size: 16px;
+ line-height: 18px;
+ letter-spacing: 1.6px;
+ text-transform: uppercase;
+ color: #FFFFFF;
+ }
+
+ .contact__number{
+   font-weight: 700;
+   font-size: 28px;
+   line-height: 36px;
+   color: #FFFFFF;
+   margin-top: 4px;
+ }
+
+ .contact__btns{
+   display: flex;
+   align-items: center;
+ }
+
+ .contact__btn{
+   font-weight: 700;
+ font-size: 18px;
+ line-height: 20px;
+ color: #FFFFFF;
+ padding: 26px 38px;
+ background: #0075FF;
+ border-radius: 14px;
+ margin-top: 12px;
+
+ }
+
+ .contact__btn:hover{
+ font-weight: 700;
+ background-color: #FFFFFF;
+ color: black;
+ transition: 0.5s ease-in-out;
+ }
